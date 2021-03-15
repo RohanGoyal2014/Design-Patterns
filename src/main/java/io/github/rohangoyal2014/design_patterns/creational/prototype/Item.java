@@ -2,8 +2,8 @@ package io.github.rohangoyal2014.design_patterns.creational.prototype;
 
 /**
  * 
- * Used when cost of creation is large Used usually for refactoring Concept of
- * deep and shallow clones
+ * Used when cost of creation is large Used usually for refactoring 
+ * Concept of deep and shallow clones
  * 
  * @author Rohan
  *
